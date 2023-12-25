@@ -1,5 +1,5 @@
 Aziel-net is an application specifically designed for refugees and newcomers in the Netherlands. Its purpose is to facilitate connection and communication among them, enabling interaction with other refugees. Additionally, the app provides access to crucial information from the Immigration and Naturalization Service (IND). Among its various features are the ability to add friends, react to their posts, and more.
-`TODO: Add a nice screenshot of the app!`
+
 
 # Class 44 final project
 
